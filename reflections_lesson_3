@@ -1,0 +1,4 @@
+Reflections lesson 3:
+
+git remote add nameOfRemote(origin) URL(gitHub URL) -> To create remote nammed origin;
+git push nameOfRemote nameOfBranch -> To send local commits;
