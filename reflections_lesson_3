@@ -3,3 +3,19 @@ Reflections lesson 3:
 git remote add nameOfRemote(origin) URL(gitHub URL) -> To create remote called origin;
 git push nameOfRemote nameOfBranch -> To send local commits;
 
+Reflection:
+
+- When i use use fork, clone or branches?
+
+*fork - I use fork when i want to get someone else`s content and stay connected
+with original project;
+
+*clone - I use clone when i just want clone someone else`s content;
+
+*branch - I use a new branch when i want create a new changes on my projects without
+change my original project;
+
+
+
+
+
